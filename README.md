@@ -313,31 +313,5 @@ The app requires the following permissions (already configured):
 - Secure API key management
 - HTTPS communication for all network requests
 
-## 📱 Screenshots
 
-_Screenshots will be added here_
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-
-## 🙏 Acknowledgments
-
-- Firebase team for excellent backend services
-- Google Maps team for location services
-- Jetpack Compose team for modern UI toolkit
-- Open source community for amazing libraries
-
----
-
-Made with ❤️ using Kotlin and Jetpack Compose
 

@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "214317280",
+    "firebase_url": "https://garabgedetector-default-rtdb.firebaseio.com",
+    "project_id": "garabgedetector",
+    "storage_bucket": "garabgedetector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214317280:android:b35534b1a911f58ca57885",
+        "android_client_info": {
+          "package_name": "com.example.homerentalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214317280-cpfvl8sbirvf0v3odn1f7ij3l5o853d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNu3JGg9GfvCwtyK8CZrs_Bw5XlhbrSw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214317280-cpfvl8sbirvf0v3odn1f7ij3l5o853d8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214317280:android:7280baeed8eb9446a57885",
+        "android_client_info": {
+          "package_name": "com.example.spotgarbage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214317280-cpfvl8sbirvf0v3odn1f7ij3l5o853d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNu3JGg9GfvCwtyK8CZrs_Bw5XlhbrSw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214317280-cpfvl8sbirvf0v3odn1f7ij3l5o853d8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214317280:android:7e5fd8c828ff0510a57885",
+        "android_client_info": {
+          "package_name": "com.snapchatuicompose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214317280-7bgju2in7p6g94358s1713ueq02v96fh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.snapchatuicompose",
+            "certificate_hash": "ddc3a9fdee2c25b897f2cbecd746554e362d6986"
+          }
+        },
+        {
+          "client_id": "214317280-cpfvl8sbirvf0v3odn1f7ij3l5o853d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNu3JGg9GfvCwtyK8CZrs_Bw5XlhbrSw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214317280-cpfvl8sbirvf0v3odn1f7ij3l5o853d8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
